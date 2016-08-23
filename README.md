@@ -1,6 +1,10 @@
 # PlexConnect
 or: "Plex @ aTV - think different..."
 
+<a href="https://github.com/iBaa/PlexConnect">
+<img src="https://github.com/sjlouw/PlexConnect/raw/master/assets/icons/icon%401080.png" border="0">
+</a>
+
 This is a collection of files developed for the little project described in this [Plex Forum thread][].
 
 For more information, like detailed Installation Guides, FAQs and similar, visit the [Wiki][].
